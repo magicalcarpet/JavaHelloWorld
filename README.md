@@ -1,0 +1,2 @@
+In this tutorial we will create the most basic program in Java, (Hello World) program.
+Since Java is object-oriented, programs are organised into modules called classes which may have data in variables and subroutines called methods.
